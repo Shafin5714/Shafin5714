@@ -7,8 +7,15 @@
 
 <h2 align="center">My Tech Stack</h2>
 <p align="center">
-  <img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fshafin5714">
-  <img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fshafin5714">
+  
+ <!-NodeJS>
+ <img height="50" src="https://user-images.githubusercontent.com/43145078/93010604-34605880-f5b0-11ea-87fc-ab2784706885.png">
+ <!-React>
+ <img height="50" src="https://user-images.githubusercontent.com/43145078/93010659-b51f5480-f5b0-11ea-944f-9bfe06eb4618.png">
+ <!-MongoDB>
+ <img height="50" src="https://user-images.githubusercontent.com/43145078/93010710-24954400-f5b1-11ea-9b4e-6a22b621ac37.png">
+
+
 </p><br>
 
 
