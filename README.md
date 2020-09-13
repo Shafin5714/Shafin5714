@@ -8,13 +8,13 @@
 <h2 align="center">My Tech Stack</h2>
 <p align="center">
 <br>
- <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
- <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
- <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
- <code><img height="60" src="https://user-images.githubusercontent.com/43145078/93016172-03e4e280-f5e1-11ea-9301-6c547b300a84.png"></code>
- <code><img height="60" src="https://user-images.githubusercontent.com/43145078/93016182-13642b80-f5e1-11ea-81ab-4d93cccd80f3.png"></code>
- <code><img height="60" src="https://user-images.githubusercontent.com/43145078/93016204-3b538f00-f5e1-11ea-87af-8a5f32e35d70.png"></code>
- <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
+ <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+ <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+ <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+ <code><img height="50" src="https://user-images.githubusercontent.com/43145078/93016172-03e4e280-f5e1-11ea-9301-6c547b300a84.png"></code>
+ <code><img height="50" src="https://user-images.githubusercontent.com/43145078/93016182-13642b80-f5e1-11ea-81ab-4d93cccd80f3.png"></code>
+ <code><img height="50" src="https://user-images.githubusercontent.com/43145078/93016204-3b538f00-f5e1-11ea-87af-8a5f32e35d70.png"></code>
+ <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
 
 </p>
 
