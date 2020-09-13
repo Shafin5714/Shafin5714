@@ -8,12 +8,19 @@
 <h2 align="center">My Tech Stack</h2>
 <p align="center">
   
+ <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
  
- <img height="50" src="https://user-images.githubusercontent.com/43145078/93010604-34605880-f5b0-11ea-87fc-ab2784706885.png">
+ <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
  
- <img height="50" src="https://user-images.githubusercontent.com/43145078/93010659-b51f5480-f5b0-11ea-944f-9bfe06eb4618.png">
+ <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+ 
+ <img height="50" src="https://user-images.githubusercontent.com/43145078/93016172-03e4e280-f5e1-11ea-9301-6c547b300a84.png">
+ 
+ <img height="50" src="https://user-images.githubusercontent.com/43145078/93016182-13642b80-f5e1-11ea-81ab-4d93cccd80f3.png">
 
- <img height="50" src="https://user-images.githubusercontent.com/43145078/93010710-24954400-f5b1-11ea-9b4e-6a22b621ac37.png">
+ <img height="50" src="https://user-images.githubusercontent.com/43145078/93016204-3b538f00-f5e1-11ea-87af-8a5f32e35d70.png">
+ 
+ <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png">
 
 
 </p><br>
